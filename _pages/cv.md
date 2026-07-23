@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+An overview of my academic background, research experience, publications, and professional activities.
 
 Education
 ======
