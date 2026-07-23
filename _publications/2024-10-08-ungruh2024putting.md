@@ -1,5 +1,6 @@
 ---
 title: "Putting Popularity Bias Mitigation to the Test: A User-Centric Evaluation in Music Recommenders"
+hidden: true
 collection: publications
 category: conferences
 permalink: /publication/2024-10-08-ungruh2024putting
