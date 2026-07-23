@@ -8,10 +8,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 An overview of my academic background, research experience, publications, and professional activities.
 
-Education
-======
+
+## Education
+
 * Ph.D in Computer Science, Delft University of Technology, 2027 (expected)
 * M.S. in Human-Computer-Interaction, Utrecht University, 2023
 * B.S. in Human-Computer-Interaction, University of Hamburg, 2021
@@ -42,11 +44,13 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
-Service
-======
+---
+
+## Service
+
 * Web Co-Chair for [ACM UMAP 2026](https://www.um.org/umap2026/)
 
-
+---
 
 ## Program Committees
 
@@ -60,10 +64,10 @@ Service
 - ECIR '26 (Short, IR-for-Good)
 - ACM RecSys '25 (Short, Late-breaking Results)
 
+---
 
+## Publications
 
-Publications
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
