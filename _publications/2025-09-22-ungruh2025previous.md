@@ -1,5 +1,6 @@
 ---
 title: "From Previous Plays to Long-Term Tastes: Exploring the Long-term Reliability of Recommender Systems Simulations for Children"
+hidden: true
 collection: publications
 category: conferences
 permalink: /publication/2025-09-22-ungruh2025previous

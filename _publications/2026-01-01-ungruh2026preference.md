@@ -1,6 +1,7 @@
 ---
 title: "When Preference Is Not Enough: Why Recommender Systems Require Human-Aware Evaluation for Children"
 collection: publications
+hidden: true
 category: conferences
 permalink: /publication/2026-01-01-ungruh2026preference
 authors: "Robin Ungruh, Alejandro Bellogín, Dominik Kowald and Maria Soledad Pera"

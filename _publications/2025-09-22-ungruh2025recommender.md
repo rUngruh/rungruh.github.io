@@ -1,5 +1,6 @@
 ---
 title: "Are Recommender Systems Serving Children? Toward Child-Aware Design and Evaluation"
+hidden: true
 collection: publications
 category: other
 permalink: /publication/2025-09-22-ungruh2025recommender
