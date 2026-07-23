@@ -66,7 +66,7 @@ An overview of my academic background, research experience, publications, and pr
 
 ---
 
-## Publications
+## Selected Publications
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
