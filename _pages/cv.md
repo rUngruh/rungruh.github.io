@@ -41,6 +41,26 @@ Education
   * Sub-skill 2.3
 * Skill 3 -->
 
+Service
+======
+* Web Co-Chair for [ACM UMAP 2026](https://www.um.org/umap2026/)
+
+
+
+## Program Committees
+
+### Journals
+
+- Transactions on Recommender Systems: Special Issue on Highlights of RecSys 2025
+- Transactions on Recommender Systems: Special Issue on Recommender Systems for Good
+
+### Conferences
+- ACM RecSys '26 (Main track)
+- ECIR '26 (Short, IR-for-Good)
+- ACM RecSys '25 (Short, Late-breaking Results)
+
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -60,6 +80,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Web Co-Chair for [ACM UMAP 2026](https://www.um.org/umap2026/)
