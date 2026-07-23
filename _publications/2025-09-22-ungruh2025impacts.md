@@ -1,0 +1,14 @@
+---
+    title: "Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study"
+    collection: publications
+    permalink: /publication/2025-09-22-ungruh2025impacts
+    authors: "Robin Ungruh, Alejandro Bellog\'\in, Dominik Kowald, Maria Soledad Pera"
+    date: 2025-09-22
+    venue: "Proceedings of the Nineteenth ACM Conference on Recommender Systems"
+    paperurl: "https://doi.org/10.1145/3705328.3748160"
+citation: "Robin Ungruh, Alejandro Bellog\'\in, Dominik Kowald, Maria Soledad Pera. (2025). "Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study." <i>Proceedings of the Nineteenth ACM Conference on Recommender Systems</i>. https://doi.org/10.1145/3705328.3748160."
+---
+
+[Read paper](https://doi.org/10.1145/3705328.3748160)
+
+Recommended citation: Robin Ungruh, Alejandro Bellog\'\in, Dominik Kowald, Maria Soledad Pera. (2025). "Impacts of Mainstream-Driven Algorithms on Recommendations for Children Across Domains: A Reproducibility Study." <i>Proceedings of the Nineteenth ACM Conference on Recommender Systems</i>. https://doi.org/10.1145/3705328.3748160.

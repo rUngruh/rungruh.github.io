@@ -1,0 +1,14 @@
+---
+    title: "From Previous Plays to Long-Term Tastes: Exploring the Long-term Reliability of Recommender Systems Simulations for Children"
+    collection: publications
+    permalink: /publication/2025-09-22-ungruh2025previous
+    authors: "Robin Ungruh, Alejandro Bellog\'\in, Maria Soledad Pera"
+    date: 2025-09-22
+    venue: "Proceedings of the Nineteenth ACM Conference on Recommender Systems"
+    paperurl: "https://doi.org/10.1145/3705328.3759301"
+citation: "Robin Ungruh, Alejandro Bellog\'\in, Maria Soledad Pera. (2025). "From Previous Plays to Long-Term Tastes: Exploring the Long-term Reliability of Recommender Systems Simulations for Children." <i>Proceedings of the Nineteenth ACM Conference on Recommender Systems</i>. https://doi.org/10.1145/3705328.3759301."
+---
+
+[Read paper](https://doi.org/10.1145/3705328.3759301)
+
+Recommended citation: Robin Ungruh, Alejandro Bellog\'\in, Maria Soledad Pera. (2025). "From Previous Plays to Long-Term Tastes: Exploring the Long-term Reliability of Recommender Systems Simulations for Children." <i>Proceedings of the Nineteenth ACM Conference on Recommender Systems</i>. https://doi.org/10.1145/3705328.3759301.
