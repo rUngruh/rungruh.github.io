@@ -18,6 +18,9 @@ An overview of my academic background, research experience, publications, and pr
 * M.S. in Human-Computer-Interaction, Utrecht University, 2023
 * B.S. in Human-Computer-Interaction, University of Hamburg, 2021
 
+
+---
+
 <!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -43,6 +46,11 @@ An overview of my academic background, research experience, publications, and pr
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3 -->
+
+## Awards
+* *2026* --- **Best Paper Honorable Mention**, 34th ACM Conference on User Modeling, Adaptation and Personalization
+* *2024* --- **Runner-up for Best Paper**, 18th ACM Conference on Recommender Systems
+
 
 ---
 
