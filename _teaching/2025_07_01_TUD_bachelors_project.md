@@ -8,7 +8,7 @@ venue: "Delft University of Technology"
 ---
 
 
-Supervision of 5 final research projects on *Music Recommenders & Children*
+Supervision of 5 final research projects on *Music Recommenders & Children*.
 
 <!-- 
 Tasks
