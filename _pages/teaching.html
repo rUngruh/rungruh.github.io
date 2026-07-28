@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Master's Thesis Supervision
+<h2> Master's Thesis Supervision </h2>
 
 {% for post in site.teaching reversed %}
   {% if post.category == "master" %}
@@ -13,7 +13,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## Bachelor's Thesis Supervision
+<h2> Bachelor's Thesis Supervision </h2>
 
 {% for post in site.teaching reversed %}
   {% if post.category == "bachelor" %}
@@ -21,7 +21,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 <!-- 
-## Course Involvement
+<h2> Course Involvement </h2>
 
 {% for post in site.teaching reversed %}
   {% if post.category == "course" %}
@@ -29,10 +29,34 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## Guest Lectures
+<h2> Guest Lectures </h2>
 
 {% for post in site.teaching reversed %}
   {% if post.category == "guest" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %} -->
+
+
+<!-- Example HTML:
+---
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+category: "course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
+---
+
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+====== -->

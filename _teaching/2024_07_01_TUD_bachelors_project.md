@@ -7,8 +7,7 @@ date: 2024-07-01
 venue: "Delft University of Technology"
 ---
 
-
-
-Tasks
-======
 Supervision of 5 final research projects on *Music Recommenders & Children*
+
+<!-- Tasks
+====== -->
