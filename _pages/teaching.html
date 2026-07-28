@@ -5,8 +5,34 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+## Master's Thesis Supervision
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% if post.category == "master" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
+
+## Bachelor's Thesis Supervision
+
+{% for post in site.teaching reversed %}
+  {% if post.category == "bachelor" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+<!-- 
+## Course Involvement
+
+{% for post in site.teaching reversed %}
+  {% if post.category == "course" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Guest Lectures
+
+{% for post in site.teaching reversed %}
+  {% if post.category == "guest" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %} -->
