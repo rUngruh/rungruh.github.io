@@ -53,16 +53,16 @@ An overview of my academic background, research experience, publications, and pr
 ---
 
 ## Program Committees
+For a complete and up-to-date overview, see my [Service](/service/) page.
 
 ### Journals
 
-- Transactions on Recommender Systems: Special Issue on Highlights of RecSys 2025
-- Transactions on Recommender Systems: Special Issue on Recommender Systems for Good
+- Transactions on Recommender Systems (since 2025)
 
 ### Conferences
-- ACM RecSys '26 (Main track)
-- ECIR '26 (Short, IR-for-Good)
-- ACM RecSys '25 (Short, Late-breaking Results)
+- ACM RecSys (since 2025)
+- ECIR (since 2025)
+
 
 ---
 
