@@ -4,8 +4,9 @@ collection: teaching
 category: "master"
 type: "Master's Thesis"
 date: 2026-08-28
-institution: "Delft University of Technology"
+venue: "Delft University of Technology"
 ---
 
-# Thesis
+Thesis
+======
 **Title:** *Every Book Tells a Value: Emerging Values and Alignment in Children's Book Recommendations*
