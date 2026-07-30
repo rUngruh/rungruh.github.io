@@ -77,7 +77,9 @@ For a complete and up-to-date overview, see my [Service](/service/) page.
 ## Selected Publications
 
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% unless post.hidden %}
+      {% include archive-single-cv.html %}
+    {% endunless %}
   {% endfor %}</ul>
   
 <!-- Talks
