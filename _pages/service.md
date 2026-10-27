@@ -9,6 +9,13 @@ author_profile: true
 
 * Web Co-Chair for [ACM UMAP 2026](https://www.um.org/umap2026/)
 
+
+---
+
+## Organization
+
+* Co-Organizer of Interactive Session [*Won't somebody please think of the children? Rebuilding Nuance From Provocations for Children in the Digital Ecosystem*](https://2026.ecafconference.org/interactiveSessions) at [ECAF'26](https://2026.ecafconference.org/)
+
 ---
 
 ## Program Committees (Reviewing)
