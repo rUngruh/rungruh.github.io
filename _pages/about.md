@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Short Bio"
+title: "PhD Candidate at TU Delft"
 author_profile: true
 redirect_from: 
   - /about/
