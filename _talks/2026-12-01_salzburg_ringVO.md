@@ -3,7 +3,7 @@ title: "What's Inside the Toy Box: How Recommendation Algorithms Shape What Chil
 collection: talks
 type: "Invited Speaker"
 permalink: /talks/2026-12-01_salzburg_ringVO
-venue: "Gekommen, um zu bleiben. KI in Kunst, Forschung und Gesellschaft at Wissenschaft & Kunst, Salzburg, Austria"
+venue: "Gekommen, um zu bleiben. KI in Kunst, Forschung und Gesellschaft at Wissenschaft & Kunst"
 date: 2026-12-01
 location: "Salzburg, Austria & Online"
 ---
