@@ -1,5 +1,5 @@
 ---
-title: "Bachelor's Research Project 2025"
+title: "Bachelor's Research Project 2027"
 collection: teaching
 category: "bachelor"
 type: "Bachelor's Thesis"

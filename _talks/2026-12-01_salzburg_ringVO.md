@@ -4,7 +4,7 @@ collection: talks
 type: "Invited Speaker"
 permalink: /talks/2026-12-01_salzburg_ringVO
 venue: "Gekommen, um zu bleiben. KI in Kunst, Forschung und Gesellschaft at Wissenschaft & Kunst, Salzburg, Austria"
-date: 2024-12-05
+date: 2026-12-01
 location: "Salzburg, Austria & Online"
 ---
 

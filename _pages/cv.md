@@ -90,12 +90,14 @@ For a complete and up-to-date overview, see my [Service](/service/) page.
     {% endunless %}
   {% endfor %}</ul>
   
-<!-- Talks
-======
+
+
+## Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-   -->
+  
 
 <!-- Teaching
 ======
