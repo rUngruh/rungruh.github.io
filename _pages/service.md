@@ -26,6 +26,7 @@ author_profile: true
 - Transactions on Recommender Systems: Special Issue on Recommender Systems for Good
 
 ### Conferences
+- ECIR '27 (Short, IR-for-Good)
 - ACM RecSys '26 (Main track)
 - ECIR '26 (Short, IR-for-Good)
 - ACM RecSys '25 (Short, Late-breaking Results)
