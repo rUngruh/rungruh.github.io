@@ -2,7 +2,7 @@
 title: "Bachelor's Research Project 2024"
 collection: teaching
 category: "bachelor"
-type: "Master's Thesis"
+type: "Bachelor's Thesis"
 date: 2024-07-01
 venue: "Delft University of Technology"
 ---
